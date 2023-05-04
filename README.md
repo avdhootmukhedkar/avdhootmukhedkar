@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Avdhoot Mukhedkar,
-<p>I am a passionate Python Developer with 14 months of experience as a Data Scientist and 18 months as a freelance full-stack developer. My day-to-day work revolves around data collection and organization, data preparation, constructing computer vision-based deep-learning models using various algorithms, and testing and delivering APIs and web apps on the cloud. I'm open to collaborating on interesting projects.
+<p>I am an enthusiastic Python Developer with four years of experience as a Data Scientist and Full-Stack developer. My day-to-day work revolves around data collection and organization, data preparation, constructing computer vision-based deep-learning models using various algorithms, and testing and delivering APIs and web apps on the cloud. I'm open to collaborating on interesting projects.
 </p>
 <br>
 <br>
@@ -20,6 +20,7 @@
         <img alt="HTML" title="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
         <img alt="CSS" title="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png">
         <img alt="React" title="React" width="60px" src="https://reactjs.org/logo-og.png">
+        <img alt="Vue" title="Vue" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
       </td>
     </tr>
     <tr>
@@ -190,6 +191,11 @@
         <td>Python, Django</td>
         <td>Web application to read multiple configuration files in csv format using dynamic form and render graphs as video stream.</td>
       </tr>
+      <tr>
+        <td><a href="https://www.upwork.com/jobs/Build-web-app_~017bd56ad70f85109b">Python Django Big Data Analytics SaaS Web App.</a></td>
+        <td>Python, Django, Vue, AWS</td>
+        <td><a href="https://www.joinaben.com/">Customer Data Platform (CDP)</a> built to help brick & mortar businesses understand who their customers are and how to best reach them.</td>
+      </tr>
     </tbody>
   </table>
   </h5>
@@ -204,10 +210,8 @@
 ## Certifications & Achievements:
 <ul>
   <li>Received 
-    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-name="Layer 1" viewBox="0 0 14 14" role="img" width="10">
-      <polygon fill="#5aa2c6" points="6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"></polygon>
-      <polygon fill="#0b83b2" points="0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"></polygon>
-    </svg> Top Rated Badge on Upwork for 100% Job Success in January 2022.
+    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-name="Layer 1" viewBox="0 0 14 14" role="img" width="10"><polygon fill="#f86d9c" points="6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"></polygon><polygon fill="#fba0bd" points="0 0 14 9.21 14 0 0 0"></polygon><polygon fill="#f1367a" points="0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"></polygon></svg>
+    Top Rated Plus Badge on Upwork for 100% Job Success in January 2022.
   </li>
 
   <li>
